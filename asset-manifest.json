@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/traderbox/static/css/main.d98d0cbc.chunk.css",
+    "main.js": "/traderbox/static/js/main.1e80af9d.chunk.js",
+    "main.js.map": "/traderbox/static/js/main.1e80af9d.chunk.js.map",
+    "runtime-main.js": "/traderbox/static/js/runtime-main.7e189639.js",
+    "runtime-main.js.map": "/traderbox/static/js/runtime-main.7e189639.js.map",
+    "static/js/2.eea77e9a.chunk.js": "/traderbox/static/js/2.eea77e9a.chunk.js",
+    "static/js/2.eea77e9a.chunk.js.map": "/traderbox/static/js/2.eea77e9a.chunk.js.map",
+    "index.html": "/traderbox/index.html",
+    "static/css/main.d98d0cbc.chunk.css.map": "/traderbox/static/css/main.d98d0cbc.chunk.css.map",
+    "static/js/2.eea77e9a.chunk.js.LICENSE.txt": "/traderbox/static/js/2.eea77e9a.chunk.js.LICENSE.txt",
+    "static/media/TeslaWheels.css": "/traderbox/static/media/21.118eabde.svg",
+    "static/media/TeslaStats.css": "/traderbox/static/media/p100d.405cff92.svg",
+    "static/media/index.css": "/traderbox/static/media/Roboto-Regular-webfont.90564028.woff",
+    "static/media/TeslaClimate.css": "/traderbox/static/media/heat-on.a58771b9.svg",
+    "static/media/TeslaCounter.css": "/traderbox/static/media/up.9240e048.svg",
+    "static/media/logo.233e4b8c.svg": "/traderbox/static/media/logo.233e4b8c.svg",
+    "static/media/TeslaCar.css": "/traderbox/static/media/wheel-21.a3203d2a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e189639.js",
+    "static/js/2.eea77e9a.chunk.js",
+    "static/css/main.d98d0cbc.chunk.css",
+    "static/js/main.1e80af9d.chunk.js"
+  ]
+}
